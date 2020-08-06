@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.DJJY.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-05T06:47:58" hostname="DESKTOP-4IOAKB7" time="0.095">
+  <properties/>
+  <testcase name="롬북_기능_테스트" classname="com.DJJY.springboot.web.dto.HelloResponseDtoTest" time="0.095"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
